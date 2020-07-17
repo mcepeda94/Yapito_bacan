@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-13T22:35:22Z" name="Default suite" finished-at="2020-07-13T22:35:46Z" duration-ms="23706">
+    <groups>
+    </groups>
+    <test started-at="2020-07-13T22:35:22Z" name="Default test" finished-at="2020-07-13T22:35:46Z" duration-ms="23706">
+      <class name="com.yapo.test.PublicarVenta">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.yapo.test.PublicarVenta@4686afc2]" started-at="2020-07-13T18:35:22Z" name="setExtent" finished-at="2020-07-13T18:35:22Z" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.yapo.test.PublicarVenta@4686afc2]" started-at="2020-07-13T18:35:22Z" name="getDriver" finished-at="2020-07-13T18:35:36Z" duration-ms="13221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="publicarVenta(com.yapo.entities.DatosPublicar)[pri:0, instance:com.yapo.test.PublicarVenta@4686afc2]" started-at="2020-07-13T18:35:36Z" name="publicarVenta" description="Post sale" data-provider="publicar" finished-at="2020-07-13T18:35:46Z" duration-ms="10410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.yapo.entities.DatosPublicar@73511076]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publicarVenta -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.yapo.test.PublicarVenta@4686afc2]" started-at="2020-07-13T18:35:46Z" name="tearDown" finished-at="2020-07-13T18:35:46Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.yapo.test.PublicarVenta@4686afc2]" started-at="2020-07-13T18:35:46Z" name="endReport" finished-at="2020-07-13T18:35:46Z" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.yapo.test.PublicarVenta -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

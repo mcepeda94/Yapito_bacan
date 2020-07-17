@@ -1,0 +1,18 @@
+{
+	"Region": " --- Región Metropolitana",
+	"Comuna": "39",
+	"Categoria": "Arrendar",
+	"TipoInmueble": "Casa",
+	"PreMin": "$ 300.000",
+	"PreMax": "$ 600.000",
+	"DorMin": "2 dormitorios",
+	"DorMax": "3 dormitorios",
+	"M2Min": "60 m²",
+	"M2Max": "180 m²",
+	"BanoMin": "1 baño",
+	"BanoMax": "2 baños",
+	"GastoMin": "$ 25.000",
+	"GastoMax": "$ 150.000",
+	"Estacionamiento": "1"
+
+}
